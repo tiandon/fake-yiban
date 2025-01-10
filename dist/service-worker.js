@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fake-yiban/dist/precache-manifest.e33f736933240c69bfe697cc40caa8de.js"
+  "/fake-yiban/dist/precache-manifest.26e87d138469847cd1d0c15b97bb39d5.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "fake-yiban"});
